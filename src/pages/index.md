@@ -1,50 +1,35 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Generate or create any documents that you want
+image: /img/blocky_home2.png
+heading: Generate document, reach agreements between parties online
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why Blocky Doc
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Generating documents from anywhere, anytime is free. You can freely download or create any agreements of your liking.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Blocky document is a place where in you can generate as many documents as possible. It could be of any legal/agreement documents.
+  What we strive to achieve is that signing up of agreements between two parties is always a problem. So we try to solve this by using blockchain.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/consensus.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
+        We help people in reaching consensus easily between any parties through online. Therefore, we are building 
+        a secure way of signing of documents online without any restrictions.
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/document.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        We believe in creating and using documents should be free.
+        However for making agreements between parties, only a small transaction fee is required.
+        This is based on the number of parties involving in an agreement.
+    - image: /img/support.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Do you want us to help you separately for generating documents and signing of the documents/agreements? 
+        Let us help you. Please do reach out to us. We provide consulting services.
+    - image: /img/meeting.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Schedule a meeting with us easily.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
