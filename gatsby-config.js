@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Blocky Doc",
+    title: "Blocky Work",
     description:
       "This site is for generating documents online and making contracts and agreements",
   },

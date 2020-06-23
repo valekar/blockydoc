@@ -8,7 +8,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img src={logo} alt="Blocky Doc" style={{ width: "14em" }} />
+          <img src={logo} alt="Blocky Work" style={{ width: "14em" }} />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">

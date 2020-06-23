@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
 title: Generate or create any documents that you want
-image: /img/blocky_home2.png
+image: /img/blocky_home.png
 heading: Generate document, reach agreements between parties online
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Blocky Doc
+  title: Why Blocky Work
   description: >
     Generating documents from anywhere, anytime is free. You can freely download or create any agreements of your liking.
 description: >-
-  Blocky document is a place where in you can generate as many documents as possible. It could be of any legal/agreement documents.
+  Blocky Work is a place where in you can generate as many documents as possible. It could be of any legal/agreement documents.
   What we strive to achieve is that signing up of agreements between two parties is always a problem. So we try to solve this by using blockchain.
 intro:
   blurbs:
