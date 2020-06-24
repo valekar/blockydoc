@@ -1,12 +1,13 @@
 ---
 templateKey: index-page
-title: Generate or create any documents that you want
+title: Work In Progress - Generate or create any documents that you want
 image: /img/blocky_home.png
-heading: Generate document, reach agreements between parties online
+heading: Work in Progress - Generate document, reach agreements between parties online
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Blocky Work
   description: >
+    Coming soon .....
     Generating documents from anywhere, anytime is free. You can freely download or create any agreements of your liking.
 description: >-
   Blocky Work is a place where in you can generate as many documents as possible. It could be of any legal/agreement documents.
@@ -32,24 +33,18 @@ intro:
         Schedule a meeting with us easily.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Work in Progress - Generate Documents and reach consensus online
 main:
-  heading: Great coffee with no compromises
+  heading: Generate Documents
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Work in Progress
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Work in Progress
+    image: /img/document.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Work in Progress
+    image: /img/document.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Work in Progress
+    image: /img/document.jpg
 ---
