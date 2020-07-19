@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How to setup Bulma CSS with React
-date: 2020-06-24T18:04:10.000Z
+date: 2020-07-03T18:04:10.000Z
 featuredimage: /img/bulma-banner.png
 featuredpost: false
 description: How to setup Bulma CSS framework with React.
