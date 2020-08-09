@@ -1,24 +1,25 @@
 ---
 templateKey: blog-post
 title: Smart Contract development with Truffle
-date: 2020-07-20T00:04:10.000Z
+date: 2020-08-09T00:21:10.000Z
 featuredimage: /img/smart_contract_truffle.jpeg
 featuredpost: false
 description: Playing with Smart contract development.
 tags:
   - React
-  - ethereum
+  - Ethereum
+  - Solidity
 ---
 
 ![SmartContract](/img/smart_contract_truffle.jpeg){class="has-text-centered"}
 
 I wanted to know about the smart contracts and so I started playing around developing smart contracts using truffle. To my amusement, it is not so bad at all. I really learnt a lot about blockchain concepts. At first, it felt really a daunting task. But as I progressed through, it really got interested. Below is the set of instructions that I followed for developing smart contracts.
 
-# Smart Contract development
+# Smart Contract Development
 
 Here is an example project that I setup in my local environment **[AssetTokenization](https://github.com/valekar/AssetTokenization){target="\_blank"}**
 
-The idea of the above project is about asset tokenization. The idea is that one can generate ERC 20 token (fungible token). We have used OpenZeppelin CrowdSale contract. We use visual code to develop the dapp applications
+The idea of the above project is about asset tokenization. The idea is that one can generate ERC 20 token (fungible token). I have used OpenZeppelin CrowdSale contract and ERC20 token contract. I used visual code to develop the dapp applications
 
 ## To Install Truffle
 
@@ -55,4 +56,4 @@ More details can be found in **[Truffle Config](https://www.trufflesuite.com/doc
 
 ### Example Project
 
-PS : Gas cost for now is 0.04 ether
+PS : Gas cost for deploying is approximately 0.04 ether
