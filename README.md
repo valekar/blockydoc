@@ -5,3 +5,7 @@ This repository is setup using https://github.com/netlify-templates/gatsby-start
 ## This Repo
 
 I am using this repo to track my work for daily.
+
+### Command
+
+To run the website in local run `netlify dev`
