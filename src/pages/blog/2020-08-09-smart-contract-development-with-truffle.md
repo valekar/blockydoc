@@ -16,7 +16,9 @@ I wanted to know about the smart contracts and so I started playing around devel
 
 # Smart Contract development
 
-This is a smart contract setup for asset tokenization. The idea is that one can generate ERC 20 token (fungible token). We have used OpenZeppelin CrowdSale contract. We use visual code to develop the dapp applications
+Here is an example project that I setup in my local environment **[AssetTokenization](https://github.com/valekar/AssetTokenization){target="\_blank"}**
+
+The idea of the above project is about asset tokenization. The idea is that one can generate ERC 20 token (fungible token). We have used OpenZeppelin CrowdSale contract. We use visual code to develop the dapp applications
 
 ## To Install Truffle
 
@@ -49,8 +51,8 @@ compilers: {
 
 ```
 
-More details can be found in [Truffle Config](https://www.trufflesuite.com/docs/truffle/reference/configuration)
+More details can be found in **[Truffle Config](https://www.trufflesuite.com/docs/truffle/reference/configuration){target="\_blank"}**
 
-### Gas Cost
+### Example Project
 
 PS : Gas cost for now is 0.04 ether
